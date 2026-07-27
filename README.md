@@ -1,9 +1,13 @@
 # 🚗 Indian Pre-Owned Car Price Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red?logo=streamlit)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?logo=scikitlearn)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
+![Regression](https://img.shields.io/badge/Machine%20Learning-Regression-success)
+![Car Price Prediction](https://img.shields.io/badge/Car%20Price-Prediction-FF6F00)
+![Joblib](https://img.shields.io/badge/Joblib-Model%20Serialization-blueviolet)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 A Machine Learning web application that predicts the estimated selling price of Indian pre-owned cars based on various vehicle specifications. The project combines data preprocessing, feature engineering, a trained regression model, and an interactive Streamlit interface to provide real-time price predictions.
